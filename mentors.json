@@ -1,42 +1,7 @@
 [
   {
-    "name": "Mike Casey",
-    "affiliation": "Aventr",
-    "expertise": "MEAN Stack - NodeJS, AngularJS 1, ExpressJS, MongoDB"
-  },
-  {
-    "name": "Joseph Galindo",
-    "affiliation": "Tenable Network Security",
-    "expertise": "Frontend, particularly JavaScript/Node.js/Grunt/ES5, ES6"
-  },
-  {
-    "name": "Ebenezer Ackon",
-    "affiliation": "Viacom",
-    "expertise": "Android Moble Development"
-  },
-  {
-    "name": "Manoj Gurung",
-    "affiliation": "Viacom",
-    "expertise": "Mobile Development - Swift"
-  },
-  {
-    "name": "Alex Terela",
-    "affiliation": "Viacom",
-    "expertise": "Java"
-  },
-  {
-    "name": "Jonathan Coronel",
-    "affiliation": "Kean University",
-    "expertise": "Core Java and Swing. MySQL,PHP."
-  },
-  {
-    "name": "Xituo Chen",
-    "affiliation": "Kean University",
-    "expertise": "Java/html/php"
-  },
-  {
-    "name": "Trevor Potter",
-    "affiliation": "Kean University",
-    "expertise": "java, java script, html, and SQL"
+    "name": "Use Slack Mentor Channel",
+    "affiliation": "hackkean.slack.com",
+    "expertise": "All the things!"
   }
 ]
